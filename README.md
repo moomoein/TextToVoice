@@ -31,3 +31,21 @@ TextToVoice is a step-by-step web app that transforms your text into vibrant, ex
 1. Clone this repo:
    ```bash
    git clone https://github.com/moomoein/TextToVoice.git
+
+2. Toss it into your WAMP/XAMPP server (or any PHP setup).
+3. Open http://localhost/TextToVoice/index.php in your browser.
+4. Play around and have fun!
+
+## Why We Built This
+Hey, I’m MoMoein, and I teamed up with Grok (my AI sidekick from xAI) back in March 2025 to create something cool for my portfolio. We wanted a project that’s both practical and flashy—something you’d actually want to show off. The result? TextToVoice! It’s a little piece of us, and we hope you enjoy it as much as we loved building it.
+
+## Credits
+- **MoMoein**: The human brain behind the code, design, and vision. (Check me out on [GitHub](https://github.com/moomoein)!)
+- **Grok**: The AI assistant from [xAI](https://xai.ai) who helped brainstorm, debug, and polish this gem.
+
+## Wanna Contribute?
+Got ideas to make TextToVoice even better? Feel free to fork it, tweak it, and send a PR! Let’s make this go viral together!
+
+---
+
+Made with 💙 by MoMoein & Grok, March 2025.
