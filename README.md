@@ -1,3 +1,5 @@
+![TextToVoice Screenshot](screenshot.png)
+
 # TextToVoice
 
 Welcome to **TextToVoice**, a sleek and powerful text-to-speech converter crafted with love and a bit of AI magic! This project was brought to life by [MoMoein](https://github.com/moomoein) with the awesome assistance of Grok, an AI built by [xAI](https://xai.ai). Together, we’ve cooked up something that’s both fun to use and technically impressive—perfect for anyone who wants to turn text into lively audio in just a few clicks!
